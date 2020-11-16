@@ -4,8 +4,8 @@ Olá, sou Dheisom Gomes de Sousa moro em Cacimba do Jatóba(Enterior de Jurema P
 
 ### :clipboard: Estatus do meu perfil
 
-![Dheisom Gomes github estatus](https://github-readme-stats.vercel.app/api?username=dheisom-gomes&show_icons=true&theme=dracula)
+![Dheisom Gomes github estatus](https://github-readme-stats.vercel.app/api?username=dheisom-gomes&show_icons=true&theme=dracula&hide_title=true)
 
 ### :bar_chart: Linguagens que mais uso
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom-gomes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom-gomes&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
