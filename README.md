@@ -1,9 +1,8 @@
 # Dheisom Gomes
 
-Olá, sou Dheisom Gomes de Sousa. Moro em Cacimba do Jatóba, Jurema, Piauí. Tenho 16 anos e sou iniciante em programação; fiz alguns projetos e parte deles estão aqui no Github.
-Pretendo estudar programação para virar fullstack (antes só tinha interesse em backend) e atualmente estou estudando C++ para desenvolvimento de programas com ou sem GUI.
+Olá, sou Dheisom Gomes de Sousa. Moro em Cacimba do Jatóba, Jurema, Piauí. Tenho 16 anos e sou iniciante em programação.
 
-Gosto muito de distribuições Linux e vivo na linha de comandos (apesar de que não vivo sem uma GUI). Costumo fazer scripts para ajudar à executar tarefas que podem se tornar repetitivas. E é isso, obrigado!
+Gosto muito de distribuições Linux e da linha de comandos. Costumo fazer scripts para ajudar à executar tarefas que podem se tornar repetitivas. E é isso, obrigado!
 
 ### :clipboard: Status do meu perfil
 
