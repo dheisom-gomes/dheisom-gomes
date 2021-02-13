@@ -1,6 +1,6 @@
 # Dheisom Gomes
 
-Olá, sou Dheisom Gomes de Sousa. Moro em Cacimba do Jatóba, Jurema, Piauí. Tenho 16 anos e sou iniciante em programação.
+Olá, sou Dheisom Gomes de Sousa. Moro em Cacimba do Jatóba, Jurema, Piauí. Tenho 17 anos e sou iniciante em programação.
 
 Gosto muito de distribuições Linux e da linha de comandos. Costumo fazer scripts para ajudar à executar tarefas que podem se tornar repetitivas. E é isso, obrigado!
 
